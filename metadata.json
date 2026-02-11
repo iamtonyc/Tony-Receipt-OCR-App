@@ -1,0 +1,7 @@
+{
+  "name": "Tony Receipt OCR",
+  "description": "A powerful Receipt OCR tool that extracts data from images, translates it to English, and allows exporting to CSV for easy expense management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
